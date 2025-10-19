@@ -1,0 +1,56 @@
+Index	Name	Author	FileName	Tags	Dependencies	URL
+0	Mod Configuration Menu	Volitio	BG3MCM_755a8a72-407f-4f0d-9a33-274ac0f0b53d.pak	API, Configuration, Framework, UI		
+1	VFX_Library_SHV	Shivero	VFX_Library_SHV_dd19db12-96c0-4bca-9ef6-e8d733801d23.pak			
+2	CommunityLibrary	BG3 Community	CommunityLibrary_396c5966-09b0-40a1-af3f-93a5e9ce71c0.pak	API, CMTY, Core, Library		
+3	ImpUI (ImprovedUI)	bibsan (prev. Djmr / AlanaSP / ShinyHobo / Zee)	ImpUI_26922ba9-6018-5252-075d-7ff2ba6ed879.pak		MainUI, CrossplayUI, PhotoMode	
+4	AdvancedTTSpells	celerev	AdvancedTTSpells_fa49db03-caa7-49c8-7c76-e6c38b60267a.pak		GustavX	
+5	5eSpells	Celes/DiZ	5eSpells_fb5f528d-4d48-4bf2-a668-2274d3cfba96.pak		GustavDev, Mod Configuration Menu	
+6	Expansion	Celes/DiZ	Expansion_a2c4b0fc-e745-41df-81b7-fa53950d86a0.pak		GustavDev, Mod Configuration Menu	
+7	SpellsOfExandria	celerev	SpellsOfExandria_a27fdbe3-4d1a-641d-d05f-1ba4ee529da8.pak		DiceSet_01, DiceSet_02, DiceSet_03, DiceSet_06, MainUI, ModBrowser, PhotoMode, CrossplayUI, Gustav, GustavDev, GustavX, AdvancedTTSpells	
+8	ThematicItems	Soles	ThematicItems_50716574-7bde-456a-a5da-ff7390924671.pak			
+9	Carry Weight Increased 9000	Mharius	Carry Weight Increased 9000_92af0ebd-a04c-4e9c-8306-b947aac4c127.pak			
+10	LegendaryItems	Oiff	LegendaryItems_061529e0-ddab-402e-a3ed-53caf7701290.pak			
+11	Oath of Conquest	Havsglimt	OathofConquest_7066e995-e7fc-3932-10db-9d2c9c7de8c8.pak		DiceSet_01, DiceSet_02, DiceSet_03, DiceSet_06, MainUI, ModBrowser, PhotoMode, CrossplayUI, Gustav, GustavDev, GustavX	
+12	Extra Gear - No Vendors	pooteeweet	PTW_Extra_Gear_2cd6c65a-71cc-4db6-bfb2-70116ccd2b94.pak			
+13	Rebalance_Cantrips	Syrchalis	Rebalance_Cantrips_af6809f6-2539-4f38-9af8-6f7b28652fb4.pak			
+14	Rebalance_ClassSpells	Syrchalis	Rebalance_ClassSpells_a74a712b-094d-4941-8cc7-bb3a75bc39eb.pak			
+15	Rebalance_CommonEffects	Syrchalis	Rebalance_CommonEffects_58e080fe-4a02-46c0-beba-5ef16c992197.pak			
+16	Rebalance_Feats	Syrchalis	Rebalance_Feats_14132dd7-c606-42d7-8e3f-816a63bd7a14.pak			
+17	Rebalance_Lvl1_Spells	Syrchalis	Rebalance_Lvl1_Spells_7595d80f-dff9-4a4e-a1cc-576d7a5b9237.pak			
+18	Rebalance_Lvl2_Spells	Syrchalis	Rebalance_Lvl2_Spells_262002cc-4974-4637-8c59-1f5b9416c746.pak			
+19	Rebalance_Lvl3_Spells	Syrchalis	Rebalance_Lvl3_Spells_294024e1-0872-43c1-bddc-7a37a42b60fa.pak			
+20	Rebalance_Lvl4_Spells	Syrchalis	Rebalance_Lvl4_Spells_86a0b6ef-91e3-4123-ae68-b950ac2fc97f.pak			
+21	Rebalance_Lvl5_Spells	Syrchalis	Rebalance_Lvl5_Spells_b303e532-db02-4a58-9754-6209e9d80c9d.pak			
+22	Rebalance_Lvl6_Spells	Syrchalis	Rebalance_Lvl6_Spells_8dcc6c86-b80c-4920-824d-f21ea796bb32.pak			
+23	Rebalance_Nerfs	Syrchalis	Rebalance_Nerfs_d4405ad7-a4b2-46a8-a397-774d1b549a37.pak			
+24	SolarPlayerRace	Laruses	SolarPlayerRace_5d646489-f94e-488e-a016-895403870a2b.pak			
+25	DemonPlayerRace	Laruses	DemonPlayerRace_02f11747-4f03-4f0c-a113-0d514f659af3.pak			
+26	SolarBalanceAddon	Laruses	SolarBalanceAddon_54a75373-7b76-46d2-8cc0-661639cef27b.pak			
+27	DemonBalanceAddon	Laruses	DemonBalanceAddon_8c095bfe-771c-409f-bc37-774d5ee6e9ed.pak			
+28	Pyromancer	Havsglimt	Pyromancer_d4b73f48-0f79-5386-4395-b8e63bdf916d.pak		GustavX	
+29	5R Fount of Moonlight	ShadyDax	5R_FountofMoonlight_e800652c-3afe-45c6-a5a0-2b9c9a82df43.pak			
+30	The First Vampire	Havsglimt	TheFirstVampire_69b724c2-1e84-44a4-961a-c225c7e319de.pak			
+31	Astral Domain	Havsglimt	AstralDomain_2950dcde-1d7d-042d-1211-29f1c494cfc9.pak		GustavX	
+32	College of Whispers Bard	CrimsonEdge7	WhispersBard_97f0b46a-e144-0dc6-79c7-439f9618dc9a.pak		DiceSet_01, DiceSet_02, DiceSet_03, DiceSet_06, MainUI, ModBrowser, PhotoMode, CrossplayUI, Gustav, GustavDev, GustavX, Engine	
+33	Circle of Blood	Havsglimt	CircleofBlood_037df947-34fd-cb36-9fd5-dded6beb695e.pak		DiceSet_01, DiceSet_02, DiceSet_03, DiceSet_06, MainUI, ModBrowser, PhotoMode, CrossplayUI, Gustav, GustavDev, GustavX	
+34	SwordDancer	wingsofhegemon	SwordDancer_6f2c56bd-f678-41f3-4f15-2960bdb9e272.pak		GustavDev, GustavX	
+35	Path of the Corpse Eater	Havsglimt	CorpseEater_926dee06-6270-b66d-7b8d-5bb3989cdffb.pak		DiceSet_01, DiceSet_02, DiceSet_03, DiceSet_06, MainUI, ModBrowser, PhotoMode, CrossplayUI, Gustav, GustavDev, GustavX	
+36	PsiKnight	Sixfingeredmage	PsiKnight_744ab9dc-35c6-4949-836c-2a19a64d2469.pak			
+37	Wizard - Psionics	xarara	WizardPsionics_e278eea8-cb3c-42ac-887e-e02f56e40dc5.pak			
+38	Swarmkeeper	Havsglimt	Swarmkeeper_2831844d-e3bf-4d46-9920-71a2af947aac.pak			
+39	Drakewarden	Lykon	Drakewarden_a951d531-dd86-4ff6-8d96-a5358fa95821.pak			
+40	Barbarian - Path of the Reaver	xarara	Reaver_a6c48e02-56eb-4bc8-84e5-e1cf70bdfde4.pak			
+41	Way of the Mistweaver	Havsglimt	Mistweaver_744ee8f2-fee3-1fcb-3d42-d3916bfad826.pak		GustavX	
+42	College of Spirits	Havsglimt	CollegeofSpirits_beb361b4-cb75-4e75-8e54-c38fafeccc32.pak			
+43	CloaksOfFaerun	Araelynn	CloaksOfFaerun_057cb283-8dfa-4f3f-b8d1-a2f854c18dff.pak			
+44	Grim Surgeon Rogue	Havsglimt	GrimSurgeon_6a0535cf-1e45-371c-d6cb-51abc5d61fb7.pak		DiceSet_01, DiceSet_02, DiceSet_03, DiceSet_06, MainUI, ModBrowser, PhotoMode, CrossplayUI, Gustav, GustavDev, GustavX	
+45	Rings Expanded - Immersive	Seymordius	RingsExpanded_fa41c246-4a9f-4c6b-9514-8f61c49abe98.pak			
+46	SorcerersItems	RulerOfWorlds	SorcerersItems_b685880a-2b40-4665-b1a7-207a72cd8bae.pak			
+47	Custom Item Pack	Sumajin	SUM_9a5b4585-0677-45a3-be5c-0cdaa30123fa.pak			
+48	Gabett's Hand Crossbows V2	Gabett	GabettHandCrossbowsV2_88efcc34-76ff-4fec-a2c6-a580f08ceeff.pak			
+49	SolarPlayerTattooGold	Laruses	SolarPlayerTattooGold_9e18c91f-2dbb-4145-951d-af402369a04e.pak			
+50	SB_BloodWizard	SkyeBorne	SB_BloodWizard_029ca9b2-1797-494e-9ca9-9754eaade9bb.pak			
+51	Circle of Wildfire	Havsglimt	CircleofWildfire_26cc7a9c-f2f5-48ee-b829-f69b9698edb1.pak			
+52	Aberrant Mind	Havsglimt	AberrantMind_e79f6d0c-d430-fdf6-616a-3c1e9a1fb4e1.pak		GustavDev, GustavX	
+53	Trials of Tav - Reloaded	celerev	CombatMod_e6f0c417-36f9-42d6-9617-fd7fe2efd626.pak			
+Override	Trips_Shader	Trips	Trips_Shader_636d2850-f9fe-4c07-9ea7-d4a2ed871c0a.pak			
